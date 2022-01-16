@@ -49,7 +49,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Add your favorite music artits to your team, track and follow their weekly points, and beat out your friends",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -688,7 +688,7 @@
     },
     "team.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "The founding team of Fantasy Drafts",
         "title": "Team",
         "order": 1
       },
@@ -1273,7 +1273,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Everything about Fantasy Drafts",
         "title": "About Us",
         "order": 2
       },
@@ -1765,7 +1765,7 @@
     },
     "beta.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Subscribe to our email newsletter",
         "title": "Join beta",
         "order": 3
       },
